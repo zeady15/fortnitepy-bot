@@ -1,15 +1,16 @@
 {
-    "email": "",
-    "password": "",
+    "email": "mogolia13@gmail.com",
+    "password": "zetenyr2d2",
     "cid": "CID_022_Athena_Commando_F",
     "bid": "BID_023_Pinkbear",
     "eid": "EID_HiLowWave",
     "banner": "otherbanner28",
     "banner_colour": "defaultcolor15",
-    "level": 999,
-    "bp_tier": 999999999,
+    "level": 350,
+    "bp_tier": 900,
     "status": "Created by xMistt, enjoy!\nSupport server: https://discord.gg/8heARRB",
     "platform": "WIN",
     "debug": false,
     "friendaccept": true
+   
 }
